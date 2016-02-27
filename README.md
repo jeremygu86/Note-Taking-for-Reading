@@ -4,5 +4,5 @@
 
 1. The Elements of Statistical Learning
 
-**[13.3]** *k*-Nearest-Neightbor Classifiers
+**[13.3]** ***k*-Nearest-Neightbor Classifiers**
 
