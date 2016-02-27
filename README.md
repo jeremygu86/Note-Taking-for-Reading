@@ -14,3 +14,4 @@
 
 - In the high-dimensional data, the bias-variance tradeoff doesn't work as well for NN regression as it does for classification.
 
+	- Reason:  distance gets larger when the number of features increases. dist (1,1) = 2^(1/2), but dist (1,1,1) = 3^(1/2) is larger/further.
