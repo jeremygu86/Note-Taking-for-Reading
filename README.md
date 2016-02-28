@@ -16,6 +16,7 @@
 
 	- **Reason**:  distance gets larger when the number of features increases. dist (1,1) = 2^(1/2), but dist (1,1,1) = 3^(1/2) is larger/further.
 	
+##### Python code	
 ```python
 import numpy as np
 from copy import deepcopy
@@ -54,7 +55,7 @@ y_hats = knn2(X,Y,k,NEWX)
 
 ```
 
-
+##### R code
 ```r
 
 ## Simulated data
@@ -88,3 +89,7 @@ knn2 = function(X,Y,k,newX){
 }
 
 ````
+
+
+
+
